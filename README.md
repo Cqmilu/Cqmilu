@@ -96,8 +96,8 @@
 <h2 align="center"><font color="#FF8FC9">統計 · números</font></h2>
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=CamiKiss&show_icons=true&count_private=true&hide_border=true&title_color=FF8FC9&icon_color=FFB6C1&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Stats" />
-  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=camilash&hide_border=true&background=0d1117&stroke=FF8FC9&ring=FF8FC9&fire=FFB6C1&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="Streak" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Cqmilu&show_icons=true&count_private=true&hide_border=true&title_color=FF8FC9&icon_color=FFB6C1&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Stats" />
+  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=cqmilu&hide_border=true&background=0d1117&stroke=FF8FC9&ring=FF8FC9&fire=FFB6C1&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="Streak" />
 </p>
 
 <br>
@@ -109,7 +109,7 @@
   <a href="https://www.youtube.com/@"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="http://discordapp.com/users/914332172054310994"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:cami@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/camilash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/cqmilu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <br>
